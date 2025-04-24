@@ -1,4 +1,4 @@
 # Coderhouse
 
 
-Alumno = Balthazar martinez rial
+Alumno = Balthazar martinez Rial
